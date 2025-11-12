@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://quiet-bublanina-eaf94c.netlify.app/sitemap.xml
